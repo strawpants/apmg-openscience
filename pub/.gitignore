@@ -1,0 +1,7 @@
+# we don't want to version automatically generated latex junk
+*_latexmk
+*.aux
+*.blg
+*.fls
+*.log
+
